@@ -54,6 +54,7 @@ struct ContentView: View {
             }
         }
     }
+    //    shessh create by farid
     
     func deal(){
         var playerCardValue = Int.random(in: 2...14)
